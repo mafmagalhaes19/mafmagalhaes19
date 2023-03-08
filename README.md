@@ -48,5 +48,4 @@ I am a Backend Developer from Portugal. I am currently takig my master's degree 
 
 - :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mafalda-magalh%C3%A3es-52a118231/)
 
-
 - 😄 Pronouns: She/Her
