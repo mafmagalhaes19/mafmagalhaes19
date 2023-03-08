@@ -40,10 +40,12 @@ Here are some ideas to get you started:
 
 I am a Backend Developer from Portugal. I am currently takig my master's degree in Computer Engineering at FEUP.
 
-- :telescope: I’m working as a Backend Engineer Intern at Blip, in Porto.
+- :telescope: I’m currently working as a Backend Engineer Intern at Blip, in Porto.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I'm currently learning about Full Stack Web Development.
 
 - :zap: In my free time, I like to work on my personal projects (I am currently building a website that will show you personalized tourist routes) and I also like to learn and take courses related to useful technologies (Kafka, Springboot, Flink, etc.).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mafalda-magalh%C3%A3es-52a118231/))
+
+- 😄 Pronouns: She/Her
