@@ -80,5 +80,5 @@ I am a Backend Developer from Portugal. I am currently takig my master's degree 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mafmagalhaes19&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mafmagalhaes19&theme=holi-theme&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
