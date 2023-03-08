@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a Backend Developer from Portugal. I am currently takig my master's degree in Computer Engineering at FEUP.
+I am a Backend Developer from Portugal. I am currently taking my master's degree in Computer Engineering at FEUP.
 
 - :telescope: I’m currently working as a Backend Engineer Intern at Blip, in Porto.
 
